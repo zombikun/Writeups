@@ -5,7 +5,7 @@ https://www.root-me.org/en/Challenges/Forensic/Command-Control-level-2
 
 ### そこで、"HOSTNAME "をgrepしても何も出てきません 
 
-<img src=https://imgur.com/a/PJW8qXg>
+<img src=https://imgur.com/a/PJW8qXg](https://cdn.discordapp.com/attachments/932798167773220864/980515183258648656/unknown.png>
 
 ### 次に、USERNAMEを試してみました。
 
